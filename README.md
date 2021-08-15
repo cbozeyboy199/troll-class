@@ -5,7 +5,7 @@ Enter any command to troll
 <html>
 <body>
 
-<h2>HTML Forms</h2>
+<h2>command center</h2>
 
 <form action="/action_page.php">
   <label for="fname">command1:</label><br>
